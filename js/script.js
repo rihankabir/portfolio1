@@ -30,6 +30,9 @@
     1440: {
       slidesPerView: 4,
     },
+   2000: {
+      slidesPerView:3,
+    }
   },
 });
   const swiperEl = document.querySelector('.mySwiper');
