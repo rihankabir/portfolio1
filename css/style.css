@@ -71,7 +71,9 @@ html {
 
      /* Hero Section */
     .hero {
-      
+      padding:200px 0;
+      width: 100vw;
+      height: 70vh;
       background: url('../images/pic1.jpg') no-repeat center center/cover;
       display: flex;
       align-items: center;
